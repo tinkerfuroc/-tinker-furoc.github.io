@@ -1,6 +1,6 @@
 let students = [
-    { name: "Jiayu Wang", grade: "B.S. Student", major: "Software Engineering", group: "Vision and Decision", img: "jiayuwang.jpg" },
-    { name: "Songquan Lin", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Hardware and Decision", img: "songquanlin.jpg" },
+    { name: "Jiayu Wang(Team Leader)", grade: "B.S. Student", major: "Software Engineering", group: "Vision and Decision", img: "jiayuwang.jpg" },
+    { name: "Songquan Lin(President)", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Hardware and Decision", img: "songquanlin.jpg" },
     { name: "Yunfei Li", grade: " Student", major: "", group: "Vision and Decision", img: "yunfeili.jpg" },
     { name: "Bingchuan Wei", grade: "", major: "", group: "Navigation", img: "bingchuanwei.jpg" },
     { name: "Xinyao Qin", grade: "", major: "", group: "Grasping", img: "xinyaoqin.jpg" },
