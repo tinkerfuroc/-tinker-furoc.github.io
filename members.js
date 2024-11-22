@@ -1,9 +1,9 @@
 let students = [
     { name: "Jiayu Wang(Team Leader)", grade: "B.S. Student", major: "Software Engineering", group: "Vision and Decision", img: "jiayuwang.jpg" },
-    { name: "Songquan Lin(President)", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Hardware and Decision", img: "songquanlin.jpg" },
-    { name: "Yunfei Li", grade: " Student", major: "", group: "Vision and Decision", img: "yunfeili.jpg" },
-    { name: "Bingchuan Wei", grade: "", major: "", group: "Navigation", img: "bingchuanwei.jpg" },
-    { name: "Xinyao Qin", grade: "", major: "", group: "Grasping", img: "xinyaoqin.jpg" },
+    { name: "Songchuan Lim(President)", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Hardware and Decision", img: "songchuanlim.jpg" },
+    { name: "Yunfei Li", grade: "Master Student", major: "Software Engineering", group: "Vision", img: "yunfeili.png" },
+    { name: "Bingchuan Wei", grade: "Ph.D. Student", major: "Aerospace Engineering", group: "Navigation", img: "bingchuanwei.jpg" },
+    { name: "Xinyao Qin", grade: "Ph.D. Student", major: "Automation", group: "Grasping", img: "xinyaoqin.jpg" },
     { name: "Zhiting Zhou", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Vision, Grasping and Simulation", img: "zhitingzhou.jpg" },
     { name: "Langzhe Gu", grade: "B.S. Student", major: "Electronic Engineering and Technology", group: "Navigation", img: "langzhegu.jpg" },
     { name: "Wang You", grade: "B.S. Student", major: "Computer Science and Technology", group: "Vision", img: "wangyou.jpg" },
